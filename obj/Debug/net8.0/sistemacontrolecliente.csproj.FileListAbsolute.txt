@@ -1,0 +1,14 @@
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\bin\Debug\net8.0\sistemacontrolecliente.exe
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\bin\Debug\net8.0\sistemacontrolecliente.deps.json
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\bin\Debug\net8.0\sistemacontrolecliente.runtimeconfig.json
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\bin\Debug\net8.0\sistemacontrolecliente.dll
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\bin\Debug\net8.0\sistemacontrolecliente.pdb
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.AssemblyInfoInputs.cache
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.AssemblyInfo.cs
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.csproj.CoreCompileInputs.cache
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.dll
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\refint\sistemacontrolecliente.dll
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.pdb
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\sistemacontrolecliente.genruntimeconfig.cache
+D:\Back end 01.04.2024\07 a sp2\Sistema controle cliente\sistemacontrolecliente\obj\Debug\net8.0\ref\sistemacontrolecliente.dll
